@@ -163,6 +163,7 @@ footer {
     padding: 25px;
 }
 
+```css
 /* Tablet */
 @media (max-width: 768px) {
 
@@ -185,8 +186,9 @@ footer {
     }
 }
 
+
 /* Mobile */
-@media (max-width: 500px) {
+@media (max-width: 375px) {
 
     nav {
         flex-direction: column;
